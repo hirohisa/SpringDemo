@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="21d8fec9-358d-45b0-9d8c-1eecda1b0062" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo.iml" afterPath="$PROJECT_DIR$/demo.iml" />
-    </list>
+    <list default="true" id="21d8fec9-358d-45b0-9d8c-1eecda1b0062" name="Default" comment="" />
     <ignored path="demo.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -82,9 +78,12 @@
       <file leaf-file-name="HelloController.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/example/HelloController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.13392857">
-              <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
-              <folding />
+            <state vertical-scroll-proportion="0.50223213">
+              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <folding>
+                <element signature="e#235#236#0" expanded="true" />
+                <element signature="e#276#277#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -504,6 +503,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/HelloController.java" />
       </list>
     </option>
   </component>
@@ -1189,9 +1189,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/example/HelloController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.13392857">
-          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
-          <folding />
+        <state vertical-scroll-proportion="0.50223213">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding>
+            <element signature="e#235#236#0" expanded="true" />
+            <element signature="e#276#277#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
